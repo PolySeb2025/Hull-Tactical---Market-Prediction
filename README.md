@@ -21,7 +21,7 @@ hull_mldp_project/
 │   ├── exploration.ipynb   # Analyse exploratoire et tests ADF
 │   ├── features_ffd.ipynb  # Création des features fractionnaires
 │   ├── labeling.ipynb      # Création des cibles (Targets)
-│   └── training3.ipynb     # Pipeline final : Split, Sélection, Ensemble Learning
+│   └── training2.ipynb     # Pipeline final : Split, Sélection, Ensemble Learning
 ├── src/
 │   ├── features.py         # Algorithmes FFD (Fixed Window)
 │   ├── labeling.py         # Logique de labeling
